@@ -34,7 +34,7 @@
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="./img/react-1.svg" width="60">
+        <img src="./img/react-2.svg" width="60">
     </td>
 </tr>
 <tr>
@@ -55,14 +55,12 @@
     </td>
 </tr>
 <tr>
-    <td align='center' width="190">
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
-    </td>
-	<td align='center' width="190">
-    <td align='center' width="190">
-        <img src="./img/php-1.svg" width="60">
-    </td>
-    </td>
+  <td align='center' width="190">
+      <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
+  </td>
+   <td align='center' width="190">
+      <img src="./img/php-1.svg" width="60">
+  </td>
 	<td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60">
     </td>
