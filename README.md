@@ -1,6 +1,6 @@
 # Hi there, I'm Luis Laguna👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+23+years+old%2C+web+developer+and+gamer%2C+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8EF73B&lines=I'm+a+23+years+old%2C+web+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning a little bit of everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -34,7 +34,7 @@
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
     <td align='center' width="190">
-        
+        <img src="./img/react-1.svg" width="60">
     </td>
 </tr>
 <tr>
@@ -59,7 +59,9 @@
         <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
     </td>
 	<td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg" width="60">
+    <td align='center' width="190">
+        <img src="./img/php-1.svg" width="60">
+    </td>
     </td>
 	<td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60">
