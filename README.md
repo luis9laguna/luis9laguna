@@ -38,8 +38,14 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="luis9laguna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luis9laguna&count_private=false&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<h2 align='left'><i>Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=luis9laguna&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+<h3 align="center">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=luis9laguna&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
+</h3>
 
 </details>
