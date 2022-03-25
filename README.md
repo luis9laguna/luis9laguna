@@ -1,6 +1,6 @@
 # Hi there, I'm Luis Laguna👋
 
-## I'm a Student, Gamer, and Developer!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+23+years+old%2C+web+developer+and+gamer%2C+!!)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning a little bit of everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -34,7 +34,7 @@
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
+        
     </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
     </td>
 	<td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg" width="60">
