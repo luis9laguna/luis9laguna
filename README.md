@@ -35,11 +35,9 @@
 <img align="left" alt="Terminal" width="50px" src="./img/terminal-dark.svg" />
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+z> 
+1d09224f7814b99bd76989a03ff0c962e49172bc
+ Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
