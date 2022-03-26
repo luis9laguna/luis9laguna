@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8EF73B&lines=I'm+a+23+years+old%2C+web+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning a little bit of everything
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about web
 - ⚡ Fun fact: I love to learn new languages
 
