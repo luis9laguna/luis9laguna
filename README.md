@@ -9,13 +9,14 @@
 
 ### Connect with me:
 
-(./img/globe-dark.svg)](https://luis9laguna.netlify.app)
+[![website](./img/globe-light.svg)](https://luis9laguna.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://luis9laguna.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://www.linkedin.com/in/luis9laguna#gh-light-mode-only)
-(./img/linkedin-dark.svg)](https://www.linkedin.com/in/luis9laguna#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luis9laguna#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luis9laguna#gh-dark-mode-only)
 &nbsp;&nbsp;
-(./img/instagram-light.svg)](https://instagram.com/luifeeerlg#gh-light-mode-only)
-(./img/instagram-dark.svg)](https://instagram.com/luifeeerlg#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/luifeeerlg#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/luifeeerlg#gh-dark-mode-only)
 
 <h2 align='left'><i>Languages ​​and tools</i></h2>
 <table width="100" align="center">
